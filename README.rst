@@ -23,13 +23,13 @@ Download the Mattermost App source code from Gitlab:
 
 ::
 
-   $ git clone https://gitlab.beezim.fr/beezim/nadine.git
+   $ git clone https://github.com/Miguiz/mattermost-django-app.git
 
 Copy the Mattermost App to your Django site:
 
 ::
 
-   $ cd nadine
+   $ cd mattermost-django-app
    $ cp mattermost path/to/your/django/site
 
 Install all the requirements:
